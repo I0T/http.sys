@@ -15,4 +15,5 @@ If the target fails to send a '416' response for any reason, no output is displa
 ![alt tag](http://i.imgur.com/BTs9IvG.png)
 
 By the power of Queen B, scan, scan, scan!
+
 ![alt tag](http://i.imgur.com/qwXg9vW.gif)
